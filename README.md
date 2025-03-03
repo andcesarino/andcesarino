@@ -34,9 +34,10 @@
 
 
 <p align="center">
-  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=andcesarino&show_icons=true&theme=gotham&hide_border=true" />
-  <img width="39.752%" src="https://github-readme-streak-stats.herokuapp.com/?user=andcesarino&theme=gotham&hide_border=true" />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=andcesarino&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
+  <img width="39.752%" src="https://github-readme-streak-stats.herokuapp.com/?user=andcesarino&theme=github-dark-blue&hide_border=true" />
+ 
 </p>
 
 
-</p>
+<!-- </p> -->
