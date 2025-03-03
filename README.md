@@ -27,8 +27,8 @@
   <br />
   <br />
   
-  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andcesarino&theme=vue" alt="Top Languages"/>
-  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andcesarino&theme=vue"  alt="com Languages"/>
+  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andcesarino&theme=nord_dark" alt="Top Languages"/>
+  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andcesarino&theme=nord_dark"  alt="com Languages"/>
 </p>
 
 
