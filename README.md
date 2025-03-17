@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Mechatronic+Engineer;Robotic+and+Automation+Specialist;Clinical+Engineering+Specialist;Senior+Occupational+Safety+and+Health+Specialist">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00BFFF&size=28&center=true&vCenter=true&width=500&height=100&lines=Mechatronic+Engineer;Robotic+and+Automation+Specialist;Clinical+Engineering+Specialist;Senior+Occupational+Safety+and+Health+Specialist">
   </a>
 </p>
 
